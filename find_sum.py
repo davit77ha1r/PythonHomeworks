@@ -20,4 +20,4 @@ for i in list_1:
 for i in list_2:
 	value += i
 print(list_2,"\n",value)
-input()
+input(" ")
