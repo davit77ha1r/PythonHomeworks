@@ -1,7 +1,7 @@
 import os
 import time
 settings = ""
-
+print("ooooooooooooooo")
 symbol = "X"
 part = ("O"+"\n" * 3) + (" " * 20)
 os.system("cls")
