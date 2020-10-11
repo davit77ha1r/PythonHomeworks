@@ -48,4 +48,4 @@ start = StrHelp()
 start.add_dict(get_string)
 start.remove_dubl(get_string)
 start.find_3_highest(get_string)
-
+print()
